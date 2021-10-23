@@ -1,0 +1,22 @@
+{
+  "name": "example-git-repo",
+  "version": "1.0.0",
+  "description": "This is an example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justin-shipstation/Example-Git-Repo.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Justin Robertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justin-shipstation/Example-Git-Repo/issues"
+  },
+  "homepage": "https://github.com/justin-shipstation/Example-Git-Repo#readme"
+}
