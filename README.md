@@ -1,12 +1,24 @@
-# Example Git Repo
+# Video Game Project
+This is going to be an example of using P5 to create video games in a browser.
 
-- This is a list item
-- This is  **another** list item.
-- Add something I forgot to readme
-```python
-print ("hello")
-```
+`You can learn more about P5.js at the following `[link](https://p5js.org/reference/)
+
+Also check out Dan from [The Coding Train](https://www.youtube.com/watch?v=AaGK-fj-BAM)
+
+He does a really great series on creating games using P5 and other awesome ideas.
+
+## How to start
 ---
-## sup
-### hello
-###### day
+- Open index.html in a browser *(usually through the file explorer)*
+- Update the [src/index.js](./src/index.js) file with your new code. 
+    - You will notice that this file currently contains two functions:
+        - setup() called when the website is first loaded
+        - draw() gets called in a loop to draw elements on the canvas.
+- Save your file
+- Refresh your browser
+
+###### There is a cooler way of developing website applications but lets start with the basics first and we will work our way up.
+
+## Initial Game
+---
+[![Image from Gyazo](https://i.gyazo.com/e8953fa8ffb86c606e5f1f317ff54b62.gif)](https://gyazo.com/e8953fa8ffb86c606e5f1f317ff54b62)
