@@ -9,7 +9,9 @@ He does a really great series on creating games using P5 and other awesome ideas
 
 ## How to start
 ---
-- Open index.html in a browser *(usually through the file explorer)*
+- Run the following command in your terminal (inside of this directory) `python -m http.server`
+    - This will start a server inside of your current directory to serve out the files.
+- Next go to [http://localhost:8000/](http://localhost:8000/)
 - Update the [src/index.js](./src/index.js) file with your new code. 
     - You will notice that this file currently contains two functions:
         - setup() called when the website is first loaded
